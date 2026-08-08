@@ -1,21 +1,31 @@
-# LogisticsShippingRates
+# github-final-project
 
-Please consider the below factors while contributing
+A simple interest calculator implemented in Bash.
 
-Code Style:
-Maintain a consistent code style for readability.
+## Description
 
-Documentation:
-Ensure well-documented code for effective collaboration.
+This project calculates simple interest based on three user inputs:
 
-Testing:
-Thoroughly test your changes before submitting a pull request.
+•⁠  ⁠Principal amount (p)
+•⁠  ⁠Annual rate of interest (r)
+•⁠  ⁠Time period in years (t)
 
-Issue Tracker:
-Check the Issue Tracker for tasks.
+The simple interest is calculated using the formula:
 
-Code Review:
-All contributions undergo a code review process.
+Simple Interest = p * t * r
 
-Licensing:
-Contributions are licensed.
+## Usage
+
+Run the Bash script:
+
+bash simple-interest.sh
+
+Enter the principal amount, annual rate of interest, and time period when prompted.
+
+## Project Files
+
+•⁠  ⁠README.md - Project documentation
+•⁠  ⁠simple-interest.sh - Simple interest calculator
+•⁠  ⁠LICENSE - Apache License 2.0
+•⁠  ⁠CODE_OF_CONDUCT.md - Code of Conduct
+•⁠  ⁠CONTRIBUTING.md - Contribution guidelines
